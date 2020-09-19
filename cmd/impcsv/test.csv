@@ -1,0 +1,8 @@
+class: first ...
+name,age,male,color
+Taro,10,true,red
+Jiro,10,true,blue
+class: second ...
+name,age,male,color
+Roy,12,true,blue
+Ema,13,false,silver
