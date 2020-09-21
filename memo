@@ -10,9 +10,12 @@ Functions
 	- Dont change original data
 	- Save
 	- Load
+	9/21
+	- Unique
+	- Count
 
 Have to think
 	- Command or Shell
 
 From Pixel!
-Hello!
+    - Must set swp files to temp directory.
